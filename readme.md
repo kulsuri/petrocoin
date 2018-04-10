@@ -16,18 +16,16 @@ Node.js
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+tbc
 
 ```
-Give the example
+tbc
 ```
 
-And repeat
+next step
 
 ```
-until finished
+tbc
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -58,9 +56,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [JavaScript](http://www.google.com) - Language used
+* [Node.js](http://www.google.com) - JavaScript server framework
+* [Crypto-js](http://www.google.com) - Node.js npm package for hashing algorithms
 
 ## Contributing
 
@@ -72,7 +70,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Kulraj Suri** - *Initial work* - [kulsuri](https://github.com/kulsuri)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
